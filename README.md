@@ -90,6 +90,8 @@ A curated list of awesome programming talks, articles, books, resources and more
 
 * **[JavaScript](https://github.com/sorrycc/awesome-javascript)**: JavaScript is a dynamic programming language. It is most commonly used as part of web browsers, whose implementations allow client-side scripts to interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed.
 
+* **[The Concise TypeScript Book](https://gibbok.github.io/typescript-book/it-it/)**: A free and open-source TypeScript book in Italian.
+
 * **[Julia](https://github.com/svaksha/Julia.jl)**: Julia is a high-level dynamic programming language designed to address the requirements of high-performance numerical and scientific computing while also being effective for general purpose programming, even server/web use or as a specification language.
 
 * **[Lua](https://github.com/LewisJEllis/awesome-lua)**: Lua is a lightweight multi-paradigm programming language designed as a scripting language with extensible semantics as a primary goal.
